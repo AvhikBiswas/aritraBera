@@ -888,7 +888,7 @@ form textarea {
   .logo {
     display: flex;
     margin-left: 2rem;;
-    padding: 0;
+    padding: 3px;
   }
 
   .navbar a {
